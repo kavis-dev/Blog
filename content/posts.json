@@ -1,16 +1,1 @@
-[
-  {
-    "id": "publish-flow-test-20260821",
-    "title": "發布流程測試文章（可安全刪除）",
-    "date": "2026-08-21",
-    "category": "測試",
-    "tags": [
-      "測試",
-      "GitHub",
-      "發布流程"
-    ],
-    "excerpt": "這是一篇用於驗證 Kavis Blog 網頁發布與文章 ID 唯一性檢查的測試文章，可於驗證完成後從 GitHub 儲存庫移除。",
-    "file": "posts/publish-flow-test-20260821.md",
-    "cover": "/api/content/asset?file=covers%2Fpublish-flow-test-20260821.png"
-  }
-]
+[]
