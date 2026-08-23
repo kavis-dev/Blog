@@ -1,9 +1,17 @@
 {
   "updatedAt": "2026-08-23",
-  "intro": "",
-  "learning": [],
+  "intro": "正在學習各種程式語言，也在準備升國中。",
+  "learning": [
+    "C++",
+    "Python",
+    "HTML",
+    "CSS",
+    "Typescript"
+  ],
   "projects": [],
-  "doing": [],
+  "doing": [
+    "準備 APCS (??"
+  ],
   "notes": "",
   "availability": "",
   "canary": {
