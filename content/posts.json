@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "id": "kavisblog-about",
+    "title": "Kavis Blog - 網站介紹",
+    "date": "2026-08-24",
+    "category": "網站相關",
+    "tags": [
+      "KavisBlog"
+    ],
+    "excerpt": "介紹這個部落格網站",
+    "file": "posts/kavisblog-about.md",
+    "cover": "/api/content/asset?file=covers%2Fkavisblog-about.png"
+  }
+]
